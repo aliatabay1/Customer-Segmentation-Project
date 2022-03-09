@@ -93,3 +93,6 @@ After clustering customers, I explored different features to decide what are the
 - Increasing the customer experience on the website and making the purchasing process less time consuming
 - Promoting the discounted items by sending emails and displaying them in the main page of the website
 - Advertising how our products different from the competitors by using feedback of Cluster 0
+
+
+Image Source: https://www.segmentify.com/blog/top-customer-segmentation-examples-every-marketer-needs-to-know
