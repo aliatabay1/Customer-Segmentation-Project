@@ -30,7 +30,7 @@ The graph indicates that  %72.8 of customers didn't accept any promotion at all,
 
 Interestingly, there is a negative correlation between the number of children in a household and total expenses. The reason behind this might be having products more suitable for single people. 
 
-<img src="https://user-images.githubusercontent.com/91096434/157329954-9620fdc3-3399-42a5-9ac2-c9b39757b9e5.png" width="400">
+![image](https://user-images.githubusercontent.com/91096434/157502553-d4fffb22-b188-4cdd-9419-887ea1d55e0e.png)
 
 Another surprising correlation is between the number of monthly web visits and total expenses. Customers visiting the company’s website more, spend less on the products. The reason may stem from ineffective online sales and marketing strategies.
 
