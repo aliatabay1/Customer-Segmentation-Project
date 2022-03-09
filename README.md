@@ -52,9 +52,9 @@ Both graphs indicated that 2 is the optimal number of clusters.
 After clustering customers, I explored different features to decide what are the most important features we should focus on to produce more personalized marketing campaigns.
 
 ![image](https://user-images.githubusercontent.com/91096434/157330948-96e762cd-57d9-4fc3-9be0-ebead1c464de.png)![image](https://user-images.githubusercontent.com/91096434/157330968-6d4ec8fb-ddc6-4cab-b4e6-a7bef8709e80.png)
-![image](https://user-images.githubusercontent.com/91096434/157331016-c1a0f26e-b199-4c3b-9f72-7f858efd4264.png)![image](https://user-images.githubusercontent.com/91096434/157331077-f6df1ff5-c5b2-445b-827b-90ce0d0f0e16.png)
-![image](https://user-images.githubusercontent.com/91096434/157331102-7875b9e4-e930-4ebb-a433-b46194e609ba.png)![image](https://user-images.githubusercontent.com/91096434/157331121-6e7d775c-bba4-41fc-bc04-cbda5058a8ed.png)
-![image](https://user-images.githubusercontent.com/91096434/157331133-69dd0cd6-eef0-4e30-8f4d-5933fe4c0c7f.png)![image](https://user-images.githubusercontent.com/91096434/157331156-3ce8a9d6-d3d5-44a3-a967-6dd530d79779.png)
+![image](https://user-images.githubusercontent.com/91096434/157331016-c1a0f26e-b199-4c3b-9f72-7f858efd4264.png)![image](https://user-images.githubusercontent.com/91096434/157331102-7875b9e4-e930-4ebb-a433-b46194e609ba.png)
+![image](https://user-images.githubusercontent.com/91096434/157331121-6e7d775c-bba4-41fc-bc04-cbda5058a8ed.png)![image](https://user-images.githubusercontent.com/91096434/157331133-69dd0cd6-eef0-4e30-8f4d-5933fe4c0c7f.png)
+![image](https://user-images.githubusercontent.com/91096434/157331156-3ce8a9d6-d3d5-44a3-a967-6dd530d79779.png)![image](https://user-images.githubusercontent.com/91096434/157331077-f6df1ff5-c5b2-445b-827b-90ce0d0f0e16.png)
 ![image](https://user-images.githubusercontent.com/91096434/157331195-180fef66-22fa-469f-bd3a-e7a97c301215.png)![image](https://user-images.githubusercontent.com/91096434/157331226-b6ec3104-220d-4ab8-8bd3-d2aa7d771115.png)
 
 
@@ -67,8 +67,9 @@ After clustering customers, I explored different features to decide what are the
 - Fewer discount purchases
 - More store purchases
 - Slightly more educated
+- Higher number of children
 - Relatively older population
-- 
+
 ### Cluster 1:
 - Lower socioeconomic status
 - Significantly lower total expenditure
@@ -78,6 +79,7 @@ After clustering customers, I explored different features to decide what are the
 - More discount purchases
 - Fewer store purchases
 - Slightly less educated
+- Higher number of children
 - Relatively younger population
 
 ### V - Conclusion
