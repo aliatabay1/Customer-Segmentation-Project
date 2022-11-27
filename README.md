@@ -2,7 +2,7 @@
 
 # I - Introduction
 ### Problem Statement
-[Project Proposal](https://github.com/aliatabay1/Customer-Segmentation-Project/blob/main/Capstone%20Two%20-%20Project%20Proposal.pdf)
+[Project Proposal](https://github.com/aliatabay1/Customer-Segmentation-Project/blob/main/Customer%20Segmentation%20-%20Project%20Proposal.pdf)
 
 The marketing team is struggling to determine how to create personalized campaigns according to customers’ needs. As the data team, our goal is to gain insights from the customer data and eventually cluster them accordingly to help the marketing team develop more personalized campaigns. 
 
