@@ -85,16 +85,17 @@ After clustering customers, I explored different features to decide what are the
 ### V - Conclusion
 
 ### Cluster 0 - Marketing Strategy 
-- Promoting company’s website
+- Promoting company’s website to drive more traffic
 - Emailing the information of newly arrived items
-- Creating customer loyalty rewards program 
-- Ask them why they are choosing our products
-
+- Creating customer loyalty rewards program
+- Ask them why they are choosing our products to understand what features makes our products different than competitors 
 
 ### Cluster 1 - Marketing Strategy 
 - Increasing the customer experience on the website and making the purchasing process less time consuming
 - Promoting the discounted items by sending emails and displaying them in the main page of the website
 - Advertising how our products different from the competitors by using feedback of Cluster 0
+- Promoting children products more like toys and kids clothing 
+
 
 
 Image Source: https://www.segmentify.com/blog/top-customer-segmentation-examples-every-marketer-needs-to-know
