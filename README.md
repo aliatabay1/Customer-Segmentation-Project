@@ -79,7 +79,7 @@ After clustering customers, I explored different features to decide what are the
 - More discount purchases
 - Fewer store purchases
 - Slightly less educated
-- Higher number of children
+- Lower number of children
 - Relatively younger population
 
 ### V - Conclusion
